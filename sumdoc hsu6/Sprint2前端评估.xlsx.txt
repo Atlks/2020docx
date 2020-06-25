@@ -1,0 +1,18 @@
+比分项目APP第二阶段评估					
+模块	功能	子功能	工时（天）	人员	备注
+启动页			1	brian	
+		全部	1	brian	
+		进行中	1	brian	
+		赛程	0.5	brian	
+		赛果	1	brian	
+		关注	0.5	brian	
+	筛选		1	brian	
+	详情	首页	1	brian	
+		直播	1.5	brian	
+		阵容	0.5	brian	
+		情报	0.5	twelve	
+		指数	0.5	twelve	
+		数据	1	twelve	
+注册登录	登录非登录，退出登录		1	twelve	
+剩余问题解决	足球、资讯、个人中心		6	brian	
+
